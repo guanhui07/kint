@@ -1,5 +1,5 @@
 {
-    "name": "kint-php/kint",
+    "name": "guanhui07/kint",
     "description": "Kint - debugging tool for PHP developers",
     "keywords": ["kint", "php", "debug"],
     "type": "library",
